@@ -10,7 +10,7 @@ This repository contains solutions and architectural designs for core data engin
 - [Improvements and Future Work](#improvements-and-future-work)
 
 ---
-## Refer the provided video (ETL_Video.mp4)
+## Refer the provided video ([ETL_Video.mp4](https://youtu.be/2mnka4NbU7Q))
 ## ETL Pipeline on AWS with Apache Airflow
 
 - **Infrastructure:** Deployed on AWS EC2 (t2.medium, Ubuntu), with Python virtual environment and Apache Airflow.
